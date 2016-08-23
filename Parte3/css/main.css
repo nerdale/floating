@@ -1,1 +1,23 @@
 /* Pon tu código css aqui */
+.amarillo{
+	background-color: #FFFF00;
+	width: 150px;
+	height: 100px;
+	float: right;
+
+}
+.celeste{
+	background-color: #3A81BA;
+	width: 150px;
+	height: 100px;
+	float: right;
+}
+.rosado{
+	background-color: #ED2251;
+	width: 150px;
+	height: 100px;
+	float: right;
+}
+.contenedor{
+	border: 1px solid #666666;
+	width: 600px;}
